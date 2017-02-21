@@ -1,0 +1,2 @@
+C:\Users\Jona\Desktop\Programmieren\WinSnake\WinSnake\bin\Debug\WinSnake.exe.config
+C:\Users\Jona\Documents\GitHub\Snake-Projekt\WinSnake\WinSnake\bin\Debug\WinSnake.exe.config
