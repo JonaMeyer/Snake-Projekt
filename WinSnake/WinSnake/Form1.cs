@@ -16,5 +16,15 @@ namespace WinSnake
         {
             InitializeComponent();
         }
+
+        private void tmStopp_Tick(object sender, EventArgs e)
+        {
+            tmStopp.Enabled = false;
+        }
+
+        private void btnStart_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
